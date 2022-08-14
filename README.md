@@ -63,6 +63,17 @@ Output 4
 The upcoming "silver tsunami" will have impact on overall organizational structure and performance of Pewlett_Hackard. A pre analysis and action plan is required to identify the upcoming vacuum in human resources that Pewlett_Hackard is going to face in near future and fill the vacuum with new employee in time. 
 
 How many roles will need to be filled?
-As the silver tsunami approaches, the total number of roles that need to filled counts to 
-![image](https://user-images.githubusercontent.com/107566776/184501762-f8c0bb63-59ac-4f32-bcba-1148ec65ea76.png)
+
+As the silver tsunami approaches, the total number of roles that need to filled counts to 72,458.
+The following table shows the breakdown of employee departmentwise and it shows that Development, Production and Sales department are going to have most vacancies in coming years.
+
+![image](https://user-images.githubusercontent.com/107566776/184548895-3ddf1083-d8b8-4b27-bac5-0541d1b1def4.png)
+
+Are there enough qualified, retirement-ready employees in the department to mentor next generation of PH?
+
+The data shows that the employee of senior level position stand at 54,447.
+![image](https://user-images.githubusercontent.com/107566776/184549670-7e09b3c6-4cd8-4212-ab88-2727c79e5ed1.png)
+
+
+
 
