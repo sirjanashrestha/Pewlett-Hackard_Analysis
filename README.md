@@ -95,7 +95,7 @@ To find the qualified retirement ready employees in the department, I ran the qu
 
  ![image](https://user-images.githubusercontent.com/107566776/184653256-f9bbddbe-ff35-490f-b190-c7d3f31bc3de.png)
 
-The table below shows that PH has enough qualigied, retirement-ready employees to mentor next generation of employee in PH.
+The table below shows that PH has enough qualified, retirement-ready employees to mentor next generation of employee in PH.
 
 ![image](https://user-images.githubusercontent.com/107566776/184549670-7e09b3c6-4cd8-4212-ab88-2727c79e5ed1.png)
 
